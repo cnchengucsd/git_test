@@ -1,0 +1,2 @@
+This is testing git staging history in the terminal line
+Test #2
